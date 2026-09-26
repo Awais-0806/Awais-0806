@@ -1,27 +1,337 @@
-# 🦂 Awais Jabbar — Cybersecurity & AI Backend Developer
+<div align="center">
 
-**Team Scorpions Founder | Penetration Tester | AI Security Specialist**
+# 🦂 Awais Jabbar
 
-## 🛠️ What I Do
-- 🔐 Penetration Testing & Vulnerability Assessment
-- 🤖 AI Backend Development (FastAPI, Docker, Python)
-- 📡 Network Security & Incident Response
-- 📱 Android Security Testing
+### Cybersecurity Specialist • AI Backend Developer • Penetration Tester
 
-## 🏆 Hackathons
-- **AMD Hackathon ACT II 2026** — Hybrid Token-Efficient Routing Agent (19/19 tasks passed, zero cloud tokens)
-- **TechEx Amsterdam 2026** — Zero-Token Enterprise Router
-- **ABRG Hackathon 2026** — AI MVP
+**Founder — Team Scorpions**
 
-## 📂 Featured Projects
-- [Team-Scorpians-Routing-Agent](https://github.com/Awais-0806/Team-Scorpians-Routing-Agent)
-- [zero-token-enterprise-router](https://github.com/Awais-0806/zero-token-enterprise-router)
-- [phishing-toolkit](https://github.com/Awais-0806/phishing-toolkit)
+Building secure systems, AI-powered backends, security automation, and practical cybersecurity solutions.
 
-## 📞 Connect
-- LinkedIn: [awais-cybersecurity](https://linkedin.com/in/awais-cybersecurity)
-- Email: awais.jabbar.cs@gmail.com
+<p align="center">
+  <a href="https://github.com/Awais-0806">
+    <img src="https://img.shields.io/badge/GitHub-Awais--0806-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/awais-cybersecurity">
+    <img src="https://img.shields.io/badge/LinkedIn-Awais%20Jabbar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:awais.jabbar.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-*"Security is not a product — it's a mindset."*
+## 👋 About Me
+
+I'm **Awais Jabbar**, a cybersecurity-focused developer working at the intersection of:
+
+**Cybersecurity × Artificial Intelligence × Backend Engineering × Automation**
+
+My interests include building secure applications, developing AI-powered backend systems, performing security testing, automating security workflows, and exploring practical applications of AI in cybersecurity.
+
+I enjoy taking ideas from **concept → architecture → implementation → testing → deployment**.
+
+---
+
+## 🛡️ Cybersecurity
+
+My security interests include:
+
+* 🔐 Penetration Testing
+* 🧪 Vulnerability Assessment
+* 🌐 Network Security
+* 🚨 Incident Response
+* 📱 Android Security Testing
+* 🔎 Security Analysis
+* 🛡️ Defensive Security
+* 🤖 AI Security
+* ⚙️ Security Automation
+* 🔐 API & Backend Security
+
+---
+
+## 🤖 AI & Backend Engineering
+
+I build backend and AI systems with a strong focus on performance, security, reliability, and cost efficiency.
+
+My work includes:
+
+* FastAPI backend development
+* AI inference and routing systems
+* Local LLM deployment
+* Token-efficient AI architectures
+* REST APIs
+* Dockerized applications
+* AI automation
+* Enterprise AI workflows
+* Intelligent model routing
+* Backend security
+* Performance optimization
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### ⚡ Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Async%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/LLM%20Applications-6F42C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Local%20Inference-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Routing-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Automation-0EA5E9?style=for-the-badge"/>
+</p>
+
+### 🐳 DevOps / Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🔐 Security Tools
+
+<p>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-111827?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🦂 Team Scorpions — Hybrid Token-Efficient Routing Agent
+
+**AMD Developer Hackathon — ACT II 2026**
+
+A local-first AI routing system designed to reduce unnecessary cloud inference by intelligently routing requests between local and cloud models.
+
+### Key Features
+
+* 🧠 Intelligent AI routing
+* ⚡ Local-first inference
+* 💰 Token and cloud-cost optimization
+* 🚀 FastAPI backend
+* 🐳 Docker deployment
+* 🔄 Retry and fallback mechanisms
+* 📊 Confidence-based routing
+* 🧪 Extensive automated testing
+
+### Technologies
+
+`Python` `FastAPI` `Docker` `LLM` `AI Routing` `Local Inference`
+
+🔗 **Repository:**
+https://github.com/Awais-0806/Team-Scorpians-Routing-Agent
+
+---
+
+## ⚡ Zero-Token Enterprise Router
+
+An enterprise-focused AI routing architecture designed around **local inference, intelligent request handling, performance, observability, and cloud-cost reduction**.
+
+### Technologies
+
+`Python` `FastAPI` `Streamlit` `SQLite` `Redis` `Docker` `Prometheus`
+
+### Focus Areas
+
+* Local-first AI inference
+* Intelligent model routing
+* Enterprise API architecture
+* Cost optimization
+* Monitoring and analytics
+* Containerized deployment
+
+🔗 **Repository:**
+https://github.com/Awais-0806/zero-token-enterprise-router
+
+---
+
+## 🎣 Phishing Toolkit
+
+A defensive cybersecurity toolkit designed to help analyze suspicious messages and identify common phishing indicators.
+
+### Analysis Areas
+
+* 🌐 Domain analysis
+* 🔗 URL inspection
+* 🎭 Display-name spoofing
+* 🧠 Social-engineering indicators
+* 📎 Attachment risk analysis
+* 🚨 Suspicious behavior detection
+* 📋 Security recommendations
+
+### Classification
+
+`SAFE` • `SUSPICIOUS` • `MALICIOUS`
+
+🔗 **Repository:**
+https://github.com/Awais-0806/phishing-toolkit
+
+---
+
+# 🏆 Hackathons & Innovation
+
+## AMD Developer Hackathon — ACT II 2026
+
+**Project:** Hybrid Token-Efficient Routing Agent
+
+Focus:
+
+`AI Agents` `Local LLMs` `AI Routing` `Token Efficiency` `Backend Engineering`
+
+---
+
+## TechEx Amsterdam Hackathon — 2026
+
+**Project:** Zero-Token Enterprise Router
+
+Focus:
+
+`Enterprise AI` `Local Inference` `AI Architecture` `Cost Optimization`
+
+---
+
+## ABRG Hackathon — 2026
+
+**Project:** AI MVP
+
+Focus:
+
+`Artificial Intelligence` `Rapid Prototyping` `Product Development`
+
+---
+
+# 🔥 What I'm Currently Exploring
+
+```text
+Cybersecurity
+      +
+Artificial Intelligence
+      +
+Backend Engineering
+      +
+Automation
+      +
+Cloud & Local Infrastructure
+```
+
+Current areas of interest:
+
+* 🛡️ AI-powered cybersecurity
+* 🤖 Secure AI applications
+* 🔐 AI security and threat detection
+* ⚙️ Security automation
+* 🧠 Local LLM systems
+* 🚀 High-performance backend systems
+* 🌐 API and infrastructure security
+* 📊 Security monitoring and observability
+
+---
+
+# 🧪 Security Engineering Mindset
+
+I approach security projects with a practical engineering workflow:
+
+```text
+Understand the System
+        ↓
+Map the Attack Surface
+        ↓
+Identify Potential Weaknesses
+        ↓
+Validate Findings
+        ↓
+Automate Detection
+        ↓
+Implement Mitigation
+        ↓
+Test & Monitor
+        ↓
+Continuously Improve
+```
+
+My goal is not only to identify vulnerabilities, but also to understand **why they occur, how they can be detected, and how systems can be made more resilient**.
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Awais-0806&show_icons=true&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-0806&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+> **"Security is not a product — it's a mindset."**
+
+I believe secure engineering starts by thinking about **how a system can fail before someone else discovers it**.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Awais-0806">
+<img src="https://img.shields.io/badge/GitHub-Awais--0806-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/awais-cybersecurity">
+<img src="https://img.shields.io/badge/LinkedIn-Awais%20Jabbar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:awais.jabbar.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email-awais.jabbar.cs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🦂 BUILD SECURE. AUTOMATE SMART. ENGINEER FOR IMPACT.
+
+</div>
